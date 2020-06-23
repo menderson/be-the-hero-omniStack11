@@ -6,14 +6,17 @@
 
 <h2 align="center"> Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar </h2>
 
-<h3 align="center"> Criada com a stack <img src="imgs/react.png" alt="react" height="18"> React, <img src="imgs/react-native.png" alt="react-native" height="18"> React Native, <img src="imgs/node.png" alt="node" height="18"> Node e <img src="imgs/sqlite.png" alt="node" height="18"> SQLite </h3>
-
-<p align="center"> <img src="imgs/heroes.png" alt="heroes" height="250"> </p>
-
-<p align="center"> Usando o <img src="imgs/js.png" height="18" alt="javascript"> JavaScript. 
----
-
-[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) da aplicação no <img src="imgs/figma.png" alt="figma" height="20"> Figma.
+### :rocket: Tecnologias usadas
+Este projeto foi desenvolvido com as seguintes tecnologias:
+- [Node.js](https://nodejs.org/en/)
+- [Expo](https://expo.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [ExpressJs](https://expressjs.com/pt-br/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Eslint](https://www.npmjs.com/package/eslint)
+- [Jest](https://www.npmjs.com/package/jest)
 
 ## Para rodar a aplicação
 
@@ -26,6 +29,8 @@ Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. 
 Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, leia o QR Code no seu celular e utilize o aplicativo <img src="imgs/expo.png" alt="rocketseat" height="20"> Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
 
 ## Telas
+
+[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) da aplicação no <img src="imgs/figma.png" alt="figma" height="20"> Figma.
 
 <p align="center">
     <img alt="" title="" src="imgs/print1.png">
