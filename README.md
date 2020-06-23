@@ -42,7 +42,7 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 **Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
 
 ## Licença
-[MIT](https://github.com/menderson/be-the-hero-omniStack11/LICENSE)
+[MIT](https://github.com/menderson/be-the-hero-omniStack11/blob/master/LICENSE)
 
 ---
 
